@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Starwars Hub</string>
     <string name="action_settings">Settings</string>
+    <string name="movies_screen_title">Movies</string>
 </resources>
